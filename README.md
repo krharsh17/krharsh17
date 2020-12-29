@@ -12,7 +12,7 @@
 
 💬 Ask me about anything, I'm happy to help! 🤝
 
-📫 How to reach me: kharsh39@gmail.com 📧
+📫 How to reach me: hey@kumarharsh.me 📧
 
 😄 Pronouns: he/him 👨‍💻
 
