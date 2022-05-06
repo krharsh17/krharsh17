@@ -1,10 +1,8 @@
 # Hola! 👋
 
-#### I am Kumar Harsh, a software developer 💻 I create apps for mobile, web & the cloud 🌩
+#### I am Kumar Harsh, a software developer 💻 I create apps for mobile, web & cloud 🌩
 
 🔭 I’m currently working as a **Software Development Intern** 🖥
-
-❤ I'm a **student mentor** 👨‍🏫
 
 🌱 I’m currently learning Cloud Computing ☁
 
