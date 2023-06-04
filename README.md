@@ -1,16 +1,14 @@
-# Hola! 👋
+# Namaste! 🙏🏻
 
-#### I am Kumar Harsh, a software developer 💻 I create apps for mobile, web & cloud 🌩
+#### I am Kumar Harsh, an indie software developer and a developer advocate 💻 I create apps for mobile, web & cloud 🌩 I can also help you with technical marketing
 
-🔭 I’m currently working as a **Software Development Intern** 🖥
+🔭 I’m currently working as a **Developer Advocate** 🖥
 
-🌱 I’m currently learning Cloud Computing ☁
-
-🤔 I’m looking for help with *Digital Marketing* 📈
+🌱 I’m currently learning **Web Security** ☁
 
 💬 Ask me about anything, I'm happy to help! 🤝
 
-📫 How to reach me: hey@kumarharsh.me 📧
+📫 How to reach me: hey \[at\] kumarharsh.me 📧
 
 😄 Pronouns: he/him 👨‍💻
 
